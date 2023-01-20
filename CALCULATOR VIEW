@@ -1,0 +1,11 @@
+*************************************************************************************************************************************************************************
+                                                           NUMBER SYSTEM CONVERSATION CALCULATOR
+                                                           FOR POSITIVE INTEGERS
+ *************************************************************************************************************************************************************************
+ Enter 1 for decimal to binary conversaton
+ Enter 2 for decimal to octal conversaton
+ Enter 3 for decimal to hexadecimal conversation
+ Enter 4 for binary to  decimal conversation
+ Enter 5 for octal to   decimal conversation
+ Enter 6 for hexadecimal to decimal convesation
+ Enter your choice=
